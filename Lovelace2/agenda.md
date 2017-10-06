@@ -47,7 +47,7 @@ Format à respecter:
 
 - lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
 
-- mardi 31/10/2017, " ", ;
+- mardi 31/10/2017, "Préprocesseur Sass Scss Less "Kevin Flabat, ;
 
 
 
