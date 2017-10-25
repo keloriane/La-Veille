@@ -21,7 +21,9 @@ Format à respecter:
 
 - mardi 31/10/2017, "Gérer une équipe et un projet: comment ça marche ?", Valerian Thomas;
 
-- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
+- mercredi 01/11/2017 , "Expérience utilisateur UX" , Stéphane Dethy;
+
+- jeudi 03/11/2017 , Vue JS , Kevin F & Kevin S;
 
 
 
