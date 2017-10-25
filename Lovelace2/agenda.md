@@ -23,6 +23,8 @@ Format à respecter:
 
 - date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
 
+- Vendredi 03/11/2017, "Vue JS : comment ça marche ?", Kevin S & Kevin F;
+
 
 
 ## Archive
